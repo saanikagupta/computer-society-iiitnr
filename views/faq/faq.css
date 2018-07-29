@@ -1,0 +1,24 @@
+h1{
+	text-align: center;
+}
+.panel{
+	border:none;
+}
+/*.panel-heading{
+	background: rgb(200,200,200);	
+}*/
+
+.jumbotron{
+	   background-image: linear-gradient(#26307F,#100e47);
+
+}
+
+body{
+	color:#ffffff;
+	background-color: #f3f3f5;
+}
+
+.panel-body{
+  color:black;
+}
+
